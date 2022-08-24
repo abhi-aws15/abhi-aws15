@@ -26,6 +26,5 @@
 &hide=TeX&layout=compact)
  -->
  | <a href="https://github.com/abhi-aws15
-/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-aws15
-&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhishek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aws15&layout=compact&theme=buefy&hide_border=true" /></a> |
+/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-aws15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anuraghazra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aws15&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
